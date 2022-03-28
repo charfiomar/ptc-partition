@@ -1,6 +1,6 @@
 # PTC : Partitions
 
-##Comment ça marche ?
+#Comment ça marche ?
 Ce projet contient le code source de la libraire partitions, ainsi que les tests unitaires associés.
 
 Clonez le projet puis installez les dependances Maven. Ensuite faites:
